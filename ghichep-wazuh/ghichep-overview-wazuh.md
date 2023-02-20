@@ -12,7 +12,7 @@ Wazuh là 1 project mã nguồn dùng cho việc bảo vệ an ninh. Được x�
  Nó được biết đến như là một công cụ được thiết kế để kiểm tra việc tuân thủ an ninh của hệ thống sử dụng các tiêu chuẩn an ninh dùng cho môi trường doanh nghiệp
  
  - ELK Stack 
- Sử dụng cho việc thu thập, phân tihcs, index, store, search và hiển thị dữ liệu log. 
+ Sử dụng cho việc thu thập, phân tích, index, store, search và hiển thị dữ liệu log. 
  
 ## 2. Các thành phần
 
